@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 🎓 Undergraduate in Systems Analysis and Development and Chemistry Teaching at IFSertão-PE.
+### 🎓 Undergraduate in Systems Analysis and Development and Chemistry Teaching at IFSertão-PE.
 
   💡 Experienced in embedded systems, software development, and system architecture.
 
   📚 Tech enthusiast, self-taught learner, and GNU/Linux user since 2013.
 
 
-## 💻 Learning | Using
+### 💻 Learning | Using
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="48" height="48" />      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width="48" height="48"  />      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="48" height="48" />        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="48" height="48" />       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"  width="48" height="48"/>
           
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 
 
-## 🌱 Currently Learning
+### 🌱 Currently Learning
 
   Software architecture
 
@@ -42,9 +42,9 @@ Here are some ideas to get you started:
   Integration with legacy systems and compliance with data privacy regulations (LGPD)
 
 
-## 🚀 Featured Projects
+### 🚀 Featured Projects
 
-## 📫 Get in Touch
+### 📫 Get in Touch
 <div>
 <a href="https://www.youtube.com/@DoContra-88" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/taidson_silva" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
