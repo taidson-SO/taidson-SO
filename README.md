@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 🎓 Undergraduate in Systems Analysis and Development and Chemistry Teaching at IFSertão-PE.
+### 🎓 Undergraduate in Systems Analysis and Development.
 
   💡 Experienced in embedded systems, software development, and system architecture.
 
