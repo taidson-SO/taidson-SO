@@ -31,15 +31,14 @@ Here are some ideas to get you started:
 
 
 
-### 🌱 Currently Learning
+### 🌱 Currently Learning in 2025
 
-  Software architecture
-
-  Project management with agile methodologies
-
-  Test-Driven Development (TDD)
-
-  Integration with legacy systems and compliance with data privacy regulations (LGPD)
+  AWS Cloud Services
+  Google Cloud Services
+  Azure IA Services
+  Java Spring
+  Angular
+  React
 
 
 ### 🚀 Featured Projects
