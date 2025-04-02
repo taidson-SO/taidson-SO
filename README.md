@@ -33,12 +33,12 @@ Here are some ideas to get you started:
 
 ### 🌱 Currently Learning in 2025
 
-  AWS Cloud Services
-  Google Cloud Services
-  Azure IA Services
-  Java Spring
-  Angular
-  React
+ - AWS Cloud Services
+ - Google Cloud Services
+ - Azure IA Services
+ - Java Spring
+ - Angular
+ - React
 
 
 ### 🚀 Featured Projects
