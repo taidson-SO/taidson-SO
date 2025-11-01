@@ -21,7 +21,7 @@ Apaixonado por tecnologia, busco unir performance e qualidade em cada projeto qu
 
 ### 📫 Contato
 
-- 💼 [LinkedIn]([https://www.linkedin.com/in/taidson-so)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/taidson-so)  
 - 📧 **taidson2@gmail.com**
 
 ---
